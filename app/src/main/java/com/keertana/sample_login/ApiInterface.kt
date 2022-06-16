@@ -6,5 +6,5 @@ import retrofit2.http.GET
 interface ApiInterface {
 
     @GET("entries")
-    fun getData():Call<List<MyData>>
+    fun getData():Call<List<Entry>>
 }
