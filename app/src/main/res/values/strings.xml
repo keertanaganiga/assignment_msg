@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sample_login</string>
+    <string name="this_is_body_text">this is body text</string>
+    <string name="api">API</string>
+</resources>
